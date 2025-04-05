@@ -16,13 +16,12 @@
   `Vite` | `VS Code` | `Arch (btw)` | `GitHub` 
 
 ---
+### 🚧 Current Project
+**[BrainDump](https://github.com/Manpreet113/BrainDump)** – An organized chaos board for your brain. Notes, tasks, ideas, all under one roof.
 
-### 🚀 Current Project
+_Why? Because my brain’s a mess and Notion ain’t cutting it._
 
-#### [`BrainDump`](https://github.com/Manpreet113/BrainDump)  
-Your thoughts, ideas, tasks — dumped and organized in one clean place.  
-Tech: `React`, `Vite`, `TailwindCSS`  
-Purpose: **Build while I learn. Learn while I build.**
+Deployed: [Check it here](https://brain-dump-dne7q7idc-manpreet113s-projects.vercel.app/)
 
 ---
 
@@ -35,10 +34,14 @@ Purpose: **Build while I learn. Learn while I build.**
 
 ---
 
-### 📫 Hit Me Up?
+### 📊 GitHub Stats (flex incoming)
+![Manpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manpreet113&show_icons=true&theme=tokyonight&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manpreet113&layout=compact&theme=tokyonight)
 
-- [GitHub](https://github.com/Manpreet113)   
-- Currently not on Twitter/X — I’m avoiding the urge to doomscroll.
+
+### ☕ Let's Connect (or stalk me silently)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manpreet10542@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Manpreet113)
 
 ---
 
@@ -49,7 +52,14 @@ Purpose: **Build while I learn. Learn while I build.**
 
 ---
 
+### ⚠️ Warning
+This profile may contain strong opinions, inconsistent commits, and the occasional “bruh” in code comments. You’ve been warned.
+
+
+---
+
 <p align="center">Built with chaos, coffee, and <code>npx create-vibe</code></p>
+
 
 <!---
 Manpreet113/Manpreet113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
