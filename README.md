@@ -9,11 +9,11 @@
 ### 🔧 Tech Stack (a.k.a what I'm messing with)
 
 - **Languages**:  
-  `Python` | `C` | `C++` | `JavaScript` (slowly falling in love with it)  
+  `Python` | `C` | `JavaScript` (slowly falling in love with it)  
 - **Learning**:  
-  `DSA in C++`, `Web Dev`, `Linux`, `Git`, `TailwindCSS`, `React`, `TypeScript (soon)`
+  `C++`, `Web Dev`, `Linux`, `Git`, `TailwindCSS`, `React`, `TypeScript (soon)`
 - **Tools**:  
-  `Vite` | `VS Code` | `Arch (btw)` | `GitHub` | `Figma (just vibes)`  
+  `Vite` | `VS Code` | `Arch (btw)` | `GitHub` 
 
 ---
 
@@ -37,8 +37,7 @@ Purpose: **Build while I learn. Learn while I build.**
 
 ### 📫 Hit Me Up?
 
-- [GitHub](https://github.com/Manpreet113)  
-- [LinkedIn](https://www.linkedin.com/in/manpreet-gill-b10542) *(you can ghost me here)*  
+- [GitHub](https://github.com/Manpreet113)   
 - Currently not on Twitter/X — I’m avoiding the urge to doomscroll.
 
 ---
