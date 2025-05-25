@@ -1,64 +1,96 @@
-<h1 align="center">Hey there, I'm Manpreet Gill! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Yo, I’m Manpreet Gill! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <i>A curious coder, chaos manager, and vibe enthusiast based in Rohtak, India.</i>
+  <i>An introvert from Rohtak, Haryana, juggling chaos, caffeine, and code one line at a time.</i>
 </p>
 
 ---
 
-### 🔧 Tech Stack (a.k.a what I'm messing with)
+### ⚠️ Note for recruiters and placement folks
 
-- **Languages**:  
-  `Python` | `C` | `JavaScript` (slowly falling in love with it)  
-- **Learning**:  
-  `C++`, `Web Dev`, `Linux`, `Git`, `TailwindCSS`, `React`, `TypeScript (soon)`
-- **Tools**:  
-  `Vite` | `VS Code` | `Arch (btw)` | `GitHub` 
+Heads up: this profile is casual AF — no boring corporate buzzwords or fake smiles here.  
+If that’s a dealbreaker, no hard feelings. But just so you know:
 
----
-### 🚧 Current Project
-**[BrainDump](https://github.com/Manpreet113/BrainDump)** – An organized chaos board for your brain. Notes, tasks, ideas, all under one roof.
+- I’m learning and improving every day (consistency is a myth, but I’m working on it)  
+- I like to actually *get* how problems work, not just bang on code blindly  
+- Quiet, lowkey introvert who delivers when it matters  
+- Building stuff that’s actually cool and useful — even if my commit history says otherwise  
 
-_Why? Because my brain’s a mess and Notion ain’t cutting it._
-
-Deployed: [Check it here](https://brain-dump-dne7q7idc-manpreet113s-projects.vercel.app/)
+If you vibe with that, hit me up. If not, good luck finding your unicorn elsewhere.
 
 ---
 
-### 🧠 What I'm About
 
-- 1st year B.Tech CSE Student — still figuring out everything and loving the process.
-- Coding isn’t a hobby, it’s therapy.
-- Big fan of psychology, chaos, and random deep talks at 2AM.
-- Trying to master the basics before flexing anything.
+### 🛠️ What I’m screwing around with (Tech Stack)
+
+- **Languages I kinda know:**  
+  `Python` | `C` | `JavaScript` (still wooing it)  
+- **Next on my hit list:**  
+  `C++`, `React`, `TypeScript`, `Web Dev`, `Linux`, `TailwindCSS`, `Git`  
+- **Tools that keep me sane:**  
+  `Vite` | `VS Code` | `Arch Linux (because why not suffer)` | `GitHub`
 
 ---
 
-### 📊 GitHub Stats (flex incoming)
-![Manpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manpreet113&show_icons=true&theme=tokyonight&hide=prs)
+### 🚧 Currently Cooking (Projects & Chaos)
+
+**[BrainDump](https://github.com/Manpreet113/BrainDump)**  
+A messy second brain for messy first brains. Notes, todos, half-baked ideas — all thrown in one cozy chaos board.  
+> Because Notion felt too corporate and Google Keep wasn’t keeping up.
+
+**[hyprL](https://github.com/Manpreet113/hyprL)**  
+Custom Hyprland setup because... why have a normal desktop when you can rice your entire existence?  
+> One-liner install because I care:  
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/Manpreet113/hyprL/master/main/setup.sh)
+```
+
+---
+
+### 🧠 The Lore (a.k.a About Me)
+
+- Currently in the "confused but motivated" arc of my B.Tech CSE journey  
+- Code isn’t just code — it’s therapy, distraction, and oddly satisfying when it compiles  
+- Psychology nerd — I like understanding what makes people tick  
+- Social battery = 15%, but I’ll ghost write perfect code and disappear  
+- Not aiming to be a 10x developer, just trying to be slightly better than yesterday
+
+---
+
+### 📊 Statistically speaking...
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manpreet113&layout=compact&theme=tokyonight)
 
+---
 
-### ☕ Let's Connect (or stalk me silently)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manpreet10542@gmail.com)
+### ☕ Slide into my DMs (or just silently stalk me, I won’t judge)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manpreet10542@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Manpreet113)
 
 ---
 
-### ⚠️ Note to Self
+### 🧾 Reality Check
 
 > _“Don’t try to be a genius. Be consistent.”_  
-> — Random quote I’ll forget in 10 mins but needed right now.
+> — Some random dude who clearly wasn’t sleep-deprived
 
 ---
 
-### ⚠️ Warning
-This profile may contain strong opinions, inconsistent commits, and the occasional “bruh” in code comments. You’ve been warned.
+### ⚠️ You’ve been warned
 
+Expect:
+- Scattered ideas and unpolished code  
+- Commits that scream “I’ll clean this later” (I probably won’t)  
+- Sarcastic comments, possibly written at 3AM  
+- A sprinkle of “how did this even work?”
 
 ---
 
-<p align="center">Built with chaos, coffee, and <code>npx create-vibe</code></p>
+<p align="center">Is this a professional README? No. Is it honest? Unfortunately, yes.</p>
+
+
+
 
 
 <!---
