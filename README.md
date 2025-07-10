@@ -56,7 +56,10 @@ bash <(curl -sL https://raw.githubusercontent.com/Manpreet113/hyprL/master/main/
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manpreet10542@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Manpreet113)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manpreet-gill-a2923235a)
+<a href="https://www.linkedin.com/in/manpreet-gill" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" />
+</a>
+&nbsp; Manpreet Gill
 
 ---
 
