@@ -27,7 +27,8 @@ A messy second brain for messy first brains. Notes, todos, half-baked ideas — 
 
 **[hyprL](https://github.com/Manpreet113/hyprL)**  
 Custom Hyprland setup because... why have a normal desktop when you can rice your entire existence?  
-> One-liner install because I realised it works: 
+> One-liner install because I realised it works:
+ 
 > ⚠️ You must have arch installed even if barely booting.
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/Manpreet113/hyprL/master/main/setup.sh)
