@@ -4,19 +4,6 @@
   <i>An introvert from Rohtak, Haryana, juggling chaos, caffeine, and code one line at a time.</i>
 </p>
 
----
-
-### ⚠️ Note for recruiters and placement folks
-
-Heads up: this profile is casual AF — no boring corporate buzzwords or fake smiles here.  
-If that’s a dealbreaker, no hard feelings. But just so you know:
-
-- I’m learning and improving every day (consistency is a myth, but I’m working on it)  
-- I like to actually *get* how problems work, not just bang on code blindly  
-- Quiet, lowkey introvert who delivers when it matters  
-- Building stuff that’s actually cool and useful — even if my commit history says otherwise  
-
-If you vibe with that, hit me up. If not, good luck finding your unicorn elsewhere.
 
 ---
 
@@ -40,7 +27,8 @@ A messy second brain for messy first brains. Notes, todos, half-baked ideas — 
 
 **[hyprL](https://github.com/Manpreet113/hyprL)**  
 Custom Hyprland setup because... why have a normal desktop when you can rice your entire existence?  
-> One-liner install because I care:  
+> One-liner install because I realised it works: 
+> ⚠️ You must have arch installed even if barely booting.
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/Manpreet113/hyprL/master/main/setup.sh)
 ```
@@ -67,7 +55,7 @@ bash <(curl -sL https://raw.githubusercontent.com/Manpreet113/hyprL/master/main/
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manpreet10542@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Manpreet113)
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manpreet-gill-a2923235a)
 ---
 
 ### 🧾 Reality Check
@@ -84,13 +72,6 @@ Expect:
 - Commits that scream “I’ll clean this later” (I probably won’t)  
 - Sarcastic comments, possibly written at 3AM  
 - A sprinkle of “how did this even work?”
-
----
-
-<p align="center">Is this a professional README? No. Is it honest? Unfortunately, yes.</p>
-
-
-
 
 
 <!---
