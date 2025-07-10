@@ -23,7 +23,7 @@
 
 **[BrainDump](https://github.com/Manpreet113/BrainDump)**  
 A messy second brain for messy first brains. Notes, todos, half-baked ideas — all thrown in one cozy chaos board.  
-> Because Notion felt too corporate and Google Keep wasn’t keeping up.
+> Because I wanted to learn and there's no way to learning that's better than doing.
 
 **[hyprL](https://github.com/Manpreet113/hyprL)**  
 Custom Hyprland setup because... why have a normal desktop when you can rice your entire existence?  
@@ -41,7 +41,7 @@ bash <(curl -sL https://raw.githubusercontent.com/Manpreet113/hyprL/master/main/
 - Currently in the "confused but motivated" arc of my B.Tech CSE journey  
 - Code isn’t just code — it’s therapy, distraction, and oddly satisfying when it compiles  
 - Psychology nerd — I like understanding what makes people tick  
-- Social battery = 15%, but I’ll ghost write perfect code and disappear  
+- Social battery = 15%, but I can write code and disappear  
 - Not aiming to be a 10x developer, just trying to be slightly better than yesterday
 
 ---
