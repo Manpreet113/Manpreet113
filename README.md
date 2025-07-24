@@ -1,82 +1,48 @@
-<h1 align="center">Yo, I’m Manpreet Gill! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+# Hi, I'm Manpreet Gill <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
-  <i>An introvert from Rohtak, Haryana, juggling chaos, caffeine, and code one line at a time.</i>
+  <i>A full-stack developer and Linux enthusiast with a passion for building elegant, high-performance solutions from the ground up. I thrive on transforming complex problems into clean, user-friendly experiences, whether it's deep in the Linux terminal or on the web.</i>
 </p>
 
+---
+
+### 🚀 Featured Projects
+
+Here are a couple of the projects I'm most passionate about.
+
+| Project                                     | Description                                                                                                                                                                                                   | Technologies                               |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **[HyprL](https://github.com/Manpreet113/hyprL)** | An automated deployment solution to install and configure a beautiful, performance-tuned Hyprland desktop on Arch Linux. Built to make a powerful but complex environment accessible, reliable, and fun. | `Shell Scripting`, `Linux`, `Automation`   |
+| **[NoteHole](https://notehole.vercel.app/)** | A secure, full-stack note-taking Progressive Web App (PWA) built for privacy. Features user authentication, cloud sync, and client-side encryption to ensure user data remains private.           | `React`, `Supabase`, `Zustand`, `Tailwind` |
 
 ---
 
+### 💻 Technologies & Tools
 
-### 🛠️ What I’m screwing around with (Tech Stack)
+My toolbox includes a variety of technologies for systems engineering and web development.
 
-- **Languages I kinda know:**  
-  `Python` | `C` | `JavaScript` (still wooing it)  
-- **Next on my hit list:**  
-  `C++`, `React`, `TypeScript`, `Web Dev`, `Linux`, `TailwindCSS`, `Git`  
-- **Tools that keep me sane:**  
-  `Vite` | `VS Code` | `Arch Linux (because why not suffer)` | `GitHub`
-
----
-
-### 🚧 Currently Cooking (Projects & Chaos)
-
-**[BrainDump](https://github.com/Manpreet113/BrainDump)**  
-A messy second brain for messy first brains. Notes, todos, half-baked ideas — all thrown in one cozy chaos board.  
-> Because I wanted to learn and there's no way to learning that's better than doing.
-
-**[hyprL](https://github.com/Manpreet113/hyprL)**  
-Custom Hyprland setup because... why have a normal desktop when you can rice your entire existence?  
-> One-liner install because I realised it works:
- 
-> ⚠️ You must have arch installed even if barely booting.
-```bash
-bash <(curl -sL https://raw.githubusercontent.com/Manpreet113/hyprL/master/main/setup.sh)
-```
+- **Languages:** `JavaScript`, `Python`, `C`, `TypeScript`, `Bash`
+- **Frontend:** `React`, `HTML5`, `CSS3`, `Tailwind CSS`, `Vite`
+- **Backend & Cloud:** `Supabase`, `Node.js`, `Vercel`
+- **Systems & Tools:** `Linux (Arch)`, `Git`, `GitHub`, `VS Code`, `Figma`
 
 ---
 
-### 🧠 The Lore (a.k.a About Me)
+### 🌱 About Me
 
-- Currently in the "confused but motivated" arc of my B.Tech CSE journey  
-- Code isn’t just code — it’s therapy, distraction, and oddly satisfying when it compiles  
-- Psychology nerd — I like understanding what makes people tick  
-- Social battery = 15%, but I can write code and disappear  
-- Not aiming to be a 10x developer, just trying to be slightly better than yesterday
+- 🧠 **Curious & Driven:** Currently navigating my B.Tech in CSE, driven by a deep curiosity for not just how software works, but why people connect with it. My interest in psychology fuels my approach to building intuitive products.
+- 🛠️ **Code as Craft:** To me, code isn’t just a job—it’s therapy, a distraction, and an endlessly satisfying puzzle to solve.
+- 🧘 **Growth Mindset:** I'm not aiming to be a 10x developer; I'm just focused on being slightly better than I was yesterday.
 
 ---
 
-### 📊 Statistically speaking...
+### 📫 Let's Connect
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manpreet113&layout=compact&theme=tokyonight)
+I'm always open to connecting with other developers and creatives. Feel free to reach out!
 
----
-
-### ☕ Slide into my DMs (or just silently stalk me, I won’t judge)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manpreet10542@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Manpreet113)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manpreet10542@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Manpreet113)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manpreet-gill-a2923235a)
 
 ---
-
-### 🧾 Reality Check
-
-> _“Don’t try to be a genius. Be consistent.”_  
-> — Some random dude who clearly wasn’t sleep-deprived
-
----
-
-### ⚠️ You’ve been warned
-
-Expect:
-- Scattered ideas and unpolished code  
-- Commits that scream “I’ll clean this later” (I probably won’t)  
-- Sarcastic comments, possibly written at 3AM  
-- A sprinkle of “how did this even work?”
-
-
-<!---
-Manpreet113/Manpreet113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> _“Don’t try to be a genius. Be consistent.”_
